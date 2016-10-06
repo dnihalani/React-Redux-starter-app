@@ -1,0 +1,11 @@
+/**
+ * Created by dnihalani on 10/4/16.
+ */
+
+{
+"cars" : [
+    {"id":1, "make":"Ford", "model":"fusion"},
+    {"id": 2, "make":"Nissan", "model":"Fierra"},
+    {"id": 3, "make":"Lexus", "model":"NV360"}
+
+]};
