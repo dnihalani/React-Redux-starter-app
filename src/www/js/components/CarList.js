@@ -11,8 +11,8 @@ const CarList = ({carList}) => {
             {carList.map(car => (
                <li key={car.id}>
                     <h4>{car.name}</h4>
-                    <p>car.color</p>
-                    <h3>car.year</h3>
+                    <p>{car.color}</p>
+                    <h3>{car.year}</h3>
                 </li>
             ))}
             </ul>
